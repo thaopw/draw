@@ -4,6 +4,7 @@
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "skipLibCheck": true,
+    "erasableSyntaxOnly": true,
     "allowSyntheticDefaultImports": true,
     "paths": {
       "#*": ["./src/*"]
